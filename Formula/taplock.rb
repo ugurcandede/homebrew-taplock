@@ -1,8 +1,8 @@
 class Taplock < Formula
   desc "Temporarily disable keyboard and trackpad input on your Mac"
   homepage "https://github.com/ugurcandede/taplock"
-  url "https://github.com/ugurcandede/taplock/releases/download/v0.0.1/taplock-macos.zip"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/ugurcandede/taplock/releases/download/v0.0.2/taplock-macos.zip"
+  sha256 "bd657f8122e1b1e0ab4828078e906a497079a6812aa886f914f236a96082ff20"
   license :cannot_represent
 
   def install
