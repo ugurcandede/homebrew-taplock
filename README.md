@@ -1,6 +1,6 @@
 # Homebrew Tap for TapLock
 
-Homebrew formulae for [TapLock](https://github.com/ugurcandede/taplock) — temporarily disable keyboard and trackpad input while cleaning your Mac.
+Homebrew formulae for [TapLock](https://github.com/ugurcandede/taplock) — temporarily disable keyboard and trackpad input on your Mac.
 
 ## Install
 
