@@ -11,6 +11,7 @@ cask "taplock-app" do
 
   postflight do
     system "xattr", "-cr", "#{appdir}/TapLock.app"
+    system "tccutil", "reset", "Accessibility", "com.ugurcandede.taplock"
   end
 
   uninstall quit: "com.ugurcandede.taplock"
