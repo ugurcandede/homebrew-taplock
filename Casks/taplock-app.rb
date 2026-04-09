@@ -1,6 +1,6 @@
 cask "taplock-app" do
-  version "1.1.1"
-  sha256 "c06628a40703dff158e2c73b4adc2a767044b41830b67e86cb1ae1169c8242a6"
+  version "1.2.0"
+  sha256 "8cb162bc47808bd700f8ac8e2af30c061b22ce437758641d9dc6bda483e3a9de"
 
   url "https://github.com/ugurcandede/taplock-app/releases/download/v#{version}/TapLock-macos.zip"
   name "TapLock"
